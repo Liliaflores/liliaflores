@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 👀 I’m interested in science ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in science 
+- 🌱 I’m currently learning bioinformatics
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: liliaangelica.flores@gmail.com
 
